@@ -1,2 +1,4 @@
 Hello this is first text file
 I added something to check branch merging.
+I again added to check merge because I am not sure first worked or not.
+
